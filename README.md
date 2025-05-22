@@ -1,57 +1,39 @@
-Prediccion_merluza_negra
-==============================
+# Predicción de Captura de Merluza Negra en Tierra del Fuego
 
-¨Prediccion de captura de merluza negra en TDF
+Este proyecto tiene como objetivo predecir la cantidad mensual de captura de **Merluza Negra** en la provincia de **Tierra del Fuego**, utilizando como variable predictora la **anomalía de temperatura superficial del mar (SST)**.
 
-Project Organization
-------------
+## 🧭 Estructura del Proyecto (Cookiecutter)
 
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+```
+├── data/              # Datos (no incluidos en el repo)
+│   ├── raw/          # Datos originales reales (Merluza y SST 2019)
+│   ├── interim/      # Datos intermedios
+│   └── processed/    # Datos listos para modelar
+├── notebooks/        # Jupyter Notebooks
+├── src/              # Código fuente del proyecto
+├── reports/          # Visualizaciones, gráficos y salidas
+├── docs/             # Documentación (PDFs, Word, etc.)
+└── README.md         # Este archivo
+```
 
+## 🔍 Descripción del problema
 
---------
+Se busca modelar y predecir la variable `captura` mensual utilizando valores de `anom` (anomalía de temperatura superficial del mar).
+El modelo utilizado es una regresión supervisada (lineal simple) y se entrenó sobre datos reales de 2019.
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+## 📊 Técnicas aplicadas
+
+- Preprocesamiento de datos (filtrado, fechas, merge, normalización)
+- Visualización de dispersión y densidad (KDE e histograma)
+- Entrenamiento de modelo de regresión lineal
+- Evaluación del modelo (MAE y R²)
+
+## ⚠️ Importante
+
+Este repositorio **no incluye datos sensibles o pesados** por decisión consciente.
+Las carpetas `data/` están estructuradas y listas para recibir los archivos `.csv` reales que deben mantenerse localmente.
+
+## 👨‍💻 Autor
+
+- Cristian Couto
+- Proyecto académico para la materia Aprendizaje Automático
