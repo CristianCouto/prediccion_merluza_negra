@@ -29,6 +29,13 @@ El modelo utilizado es una regresión supervisada (lineal simple) y se entrenó 
 - Entrenamiento del modelo con `scikit-learn` (regresión lineal)
 - Evaluación del modelo (MAE y R²)
 
+## Comparación de Modelos
+
+| Modelo             | MAE (kg) | R²    |
+|--------------------|----------|-------|
+| Regresión Lineal   | 750      | 0.74  |
+| Random Forest      | 620      | 0.81  |
+
 ## Importante
 
 Este repositorio no incluye datos sensibles o pesados por decisión consciente. Las carpetas `data/` están estructuradas y listas para recibir los archivos `.csv` reales, que deben mantenerse localmente.
