@@ -49,7 +49,7 @@ Este repositorio no incluye datos sensibles o pesados por decisión consciente. 
 - Proyecto académico para la materia Aprendizaje Automático
 - Instituto: Centro Politécnico Malvinas Argentinas
 
-Contacto: [LinkedIn](https://www.linkedin.com/in/tuusuario) | [GitHub](https://github.com/CristianCouto)
+Contacto: [GitHub](https://github.com/CristianCouto)
 
 ##  Licencia
 
