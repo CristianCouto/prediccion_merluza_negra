@@ -39,3 +39,8 @@ Este repositorio no incluye datos sensibles o pesados por decisión consciente. 
 - Cristian Couto
 - Proyecto académico para la materia Aprendizaje Automático
 - Instituto: Centro Politécnico Malvinas Argentinas
+
+
+##  Licencia
+
+Este proyecto está licenciado bajo los términos de la [Licencia MIT](LICENSE).
