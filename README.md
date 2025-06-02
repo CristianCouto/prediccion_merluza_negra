@@ -1,6 +1,8 @@
 # Predicción de Captura de Merluza Negra en Tierra del Fuego
 
-Este proyecto tiene como objetivo predecir la cantidad mensual de captura de **Merluza Negra** en la provincia de **Tierra del Fuego**, utilizando como variable predictora la **anomalía de temperatura superficial del mar (SST)**.
+En este proyecto se busca modelar y predecir la variable `captura` mensual utilizando los valores de `anom` (anomalía de temperatura superficial del mar, SST). El modelo utilizado corresponde a una regresión supervisada (lineal simple), entrenado sobre datos reales del año 2019.
+
+
 
 ## Estructura del Proyecto (Cookiecutter)
 
@@ -22,16 +24,15 @@ Se busca modelar y predecir la variable `captura` mensual utilizando valores de 
 El modelo utilizado es una regresión supervisada (lineal simple) y se entrenó sobre datos reales de 2019.
 
 ## Técnicas aplicadas
-
-- Preprocesamiento de datos (filtrado, fechas, merge, normalización)
-- Visualización de dispersión y densidad (KDE e histograma)
-- Entrenamiento de modelo de regresión lineal
+- Preprocesamiento de datos (filtrado, fechas, merge, normalización) con `pandas` y `numpy`
+- Visualización de dispersión y densidad con `matplotlib` y `seaborn` (KDE e histogramas)
+- Entrenamiento del modelo con `scikit-learn` (regresión lineal)
 - Evaluación del modelo (MAE y R²)
 
 ## Importante
 
-Este repositorio **no incluye datos sensibles o pesados** por decisión consciente.
-Las carpetas `data/` están estructuradas y listas para recibir los archivos `.csv` reales que deben mantenerse localmente.
+Este repositorio no incluye datos sensibles o pesados por decisión consciente. Las carpetas `data/` están estructuradas y listas para recibir los archivos `.csv` reales, que deben mantenerse localmente.
+
 
 ## Autor
 
