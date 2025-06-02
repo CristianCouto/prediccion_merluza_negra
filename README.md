@@ -38,3 +38,4 @@ Este repositorio no incluye datos sensibles o pesados por decisión consciente. 
 
 - Cristian Couto
 - Proyecto académico para la materia Aprendizaje Automático
+- Instituto: Centro Politécnico Malvinas Argentinas
