@@ -44,9 +44,12 @@ Este repositorio no incluye datos sensibles o pesados por decisión consciente. 
 ## Autor
 
 - Cristian Couto
+- Tierra del Fuego, Argentina
+- Estudiante de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial
 - Proyecto académico para la materia Aprendizaje Automático
 - Instituto: Centro Politécnico Malvinas Argentinas
 
+Contacto: [LinkedIn](https://www.linkedin.com/in/tuusuario) | [GitHub](https://github.com/CristianCouto)
 
 ##  Licencia
 
