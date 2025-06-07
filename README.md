@@ -76,7 +76,7 @@ Este repositorio no incluye datos sensibles o pesados por decisión consciente. 
 Este proyecto utiliza datasets públicos y confiables, correspondientes al año 2019, obtenidos de las siguientes fuentes oficiales:
 
 - **Captura mensual de Merluza Negra**  
-  [Subsecretaría de Pesca y Acuicultura - Gobierno de Argentina](https://datos.gob.ar/dataset/produccion-pesca-nacional)
+   [Subsecretaría de Pesca y Acuicultura - Capturas marítimas (datos.gob.ar)](https://datos.gob.ar/dataset/agroindustria-pesca---desembarques-capturas-maritimas)
 
 - **Anomalías de Temperatura Superficial del Mar (SST)**  
   [NOAA - National Centers for Environmental Information](https://www.ncei.noaa.gov/access)
