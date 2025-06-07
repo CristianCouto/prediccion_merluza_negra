@@ -6,7 +6,7 @@
 
 Este proyecto aplica técnicas de Aprendizaje Automático para predecir la captura mensual de Merluza Negra en la provincia de Tierra del Fuego, Argentina, utilizando variables climáticas y oceanográficas.
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 Organizado según la arquitectura de [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/), con las siguientes carpetas:
 
@@ -16,7 +16,7 @@ Organizado según la arquitectura de [Cookiecutter Data Science](https://drivend
 - `reports/` → Gráficos y visualizaciones de resultados
 - `docs/` → Entregables académicos y documentación
 
-## 📊 Herramientas utilizadas
+##  Herramientas utilizadas
 
 - Python, Pandas, NumPy, scikit-learn
 - Jupyter Notebook
@@ -24,11 +24,11 @@ Organizado según la arquitectura de [Cookiecutter Data Science](https://drivend
 - Power BI (para visualización complementaria)
 - VS Code
 
-## ⚠️ Nota académica
+##  Nota académica
 
 Este repositorio mantiene datasets y notebooks completos como parte de una entrega evaluativa. Algunos archivos pueden ser pesados y no están optimizados para producción, pero se conservan para fines de revisión por docentes.
 
-## 👤 Autor
+##  Autor
 
 Cristian Couto — *Técnico Superior en Ciencias de Datos e Inteligencia Artificial*  
 [GitHub](https://github.com/CristianCouto) · [LinkedIn](https://www.linkedin.com/in/CristianCouto)
