@@ -2,14 +2,6 @@
   <img src="Merluza_Negra_Portada_Git.png.png" alt="Portada Merluza Negra" width="800"/>
 </p>
 
-<h1 align="center">
-  Predicción de Captura de Merluza Negra en Tierra del Fuego
-</h1>
-
-<p align="center">
-  <img src="Merluza_Negra_Portada_Git.png.png" alt="Portada Merluza Negra" width="800"/>
-</p>
-
 <h1 align="center">Predicción de Captura de Merluza Negra en Tierra del Fuego</h1>
 
 <p align="center">
