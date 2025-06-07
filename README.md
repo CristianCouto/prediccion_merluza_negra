@@ -83,6 +83,24 @@ Contacto: [GitHub](https://github.com/CristianCouto)
 
 ---
 
+## Fuentes de los datos
+
+Este proyecto utiliza datasets públicos y confiables, correspondientes al año 2019, obtenidos de las siguientes fuentes oficiales:
+
+- **Captura mensual de Merluza Negra**  
+  [Subsecretaría de Pesca y Acuicultura - Gobierno de Argentina](https://datos.gob.ar/dataset/produccion-pesca-nacional)
+
+- **Anomalías de Temperatura Superficial del Mar (SST)**  
+  [NOAA - National Centers for Environmental Information](https://www.ncei.noaa.gov/access)
+
+- **Datos Climáticos de Ushuaia y Río Grande**  
+  [NASA POWER Data Access Viewer](https://power.larc.nasa.gov/data-access-viewer/)
+
+Estas fuentes se usaron exclusivamente con fines académicos para el entrenamiento y análisis del modelo de regresión supervisada.
+
+
+---
+
 ## Licencia
 
 Este proyecto está licenciado bajo los términos de la [Licencia MIT](LICENSE).
