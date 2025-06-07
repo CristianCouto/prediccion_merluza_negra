@@ -6,6 +6,18 @@
   Predicción de Captura de Merluza Negra en Tierra del Fuego
 </h1>
 
+<p align="center">
+  <img src="Merluza_Negra_Portada_Git.png.png" alt="Portada Merluza Negra" width="800"/>
+</p>
+
+<h1 align="center">Predicción de Captura de Merluza Negra en Tierra del Fuego</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-blue"/>
+  <img src="https://img.shields.io/badge/Python-3.10-blue"/>
+  <img src="https://img.shields.io/badge/Licencia-MIT-green"/>
+</p>
+
 Este proyecto aplica técnicas de Aprendizaje Automático para predecir la captura mensual de Merluza Negra en la provincia de Tierra del Fuego, Argentina, utilizando variables climáticas y oceanográficas.
 
 ---
