@@ -22,11 +22,6 @@ Organizado según la arquitectura de [Cookiecutter Data Science](https://drivend
 - Jupyter Notebook
 - Git y GitHub
 - Power BI (para visualización complementaria)
-- VS Code
-
-##  Nota académica
-
-Este repositorio mantiene datasets y notebooks completos como parte de una entrega evaluativa. Algunos archivos pueden ser pesados y no están optimizados para producción, pero se conservan para fines de revisión por docentes.
 
 ##  Autor
 
