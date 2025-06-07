@@ -71,18 +71,6 @@ Este repositorio no incluye datos sensibles o pesados por decisión consciente. 
 
 ---
 
-## Autor
-
-**Cristian Couto**  
-Tierra del Fuego, Argentina  
-Estudiante de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial  
-Centro Politécnico Malvinas Argentinas  
-Proyecto académico para la materia Aprendizaje Automático  
-
-Contacto: [GitHub](https://github.com/CristianCouto)
-
----
-
 ## Fuentes de los datos
 
 Este proyecto utiliza datasets públicos y confiables, correspondientes al año 2019, obtenidos de las siguientes fuentes oficiales:
@@ -98,6 +86,18 @@ Este proyecto utiliza datasets públicos y confiables, correspondientes al año 
 
 Estas fuentes se usaron exclusivamente con fines académicos para el entrenamiento y análisis del modelo de regresión supervisada.
 
+
+---
+
+## Autor
+
+**Cristian Couto**  
+Tierra del Fuego, Argentina  
+Estudiante de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial  
+Centro Politécnico Malvinas Argentinas  
+Proyecto académico para la materia Aprendizaje Automático  
+
+Contacto: [GitHub](https://github.com/CristianCouto)
 
 ---
 
