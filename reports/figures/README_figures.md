@@ -18,6 +18,7 @@ Este directorio contiene las visualizaciones generadas a partir del análisis de
 Un gráfico de dispersión entre la anomalía de temperatura del mar (SST) y la cantidad de merluza negra capturada por mes.
 
 ¿Para qué sirve?
+-
 Para observar si existe relación visual entre las condiciones del océano y las capturas.
 
 Por ejemplo, si al aumentar la temperatura disminuye la captura, podría haber una correlación negativa.
@@ -28,6 +29,7 @@ Cuando la anomalía de temperatura sube, la captura de merluza tiende a bajar �
 ## mae_por_modelo.png
 
 ¿Qué muestra?
+-
 Un gráfico de barras comparando el MAE (error absoluto medio) entre distintos modelos de predicción:
 
 SVM
@@ -37,6 +39,7 @@ Random Forest
 KNN
 
 ¿Para qué sirve?
+-
 Para saber qué modelo predice mejor (el de menor MAE).
 
 ## MAE mide cuántos kilos en promedio se equivoca el modelo al predecir.
