@@ -1,4 +1,4 @@
-# 📊 Figures
+## Figures
 
 Este directorio contiene las visualizaciones generadas a partir del análisis del proyecto de predicción de captura de merluza negra en Tierra del Fuego.
 
