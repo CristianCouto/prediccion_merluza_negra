@@ -86,6 +86,12 @@ Este proyecto utiliza datasets públicos y confiables, correspondientes al año 
 
 Estas fuentes se usaron exclusivamente con fines académicos para el entrenamiento y análisis del modelo de regresión supervisada.
 
+---
+## Presentación del Proyecto
+
+-  Este video explica el desarrollo completo del proyecto de predicción de captura de merluza negra, desde el análisis de datos hasta los resultados obtenidos con el modelo Random Forest.
+
+-  [🔗 Video de Presentación – Cristian Couto](https://drive.google.com/file/d/1rBDUE4nccf_YXIkRT5W0h37fWV5icPOD/view?usp=sharing)  
 
 ---
 
