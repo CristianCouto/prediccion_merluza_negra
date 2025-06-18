@@ -93,6 +93,7 @@ Estas fuentes se usaron exclusivamente con fines académicos para el entrenamien
 
 -  Este video explica el desarrollo completo del proyecto de predicción de captura de merluza negra, desde el análisis de datos hasta los resultados obtenidos con el modelo Random Forest.
 
+- Tambien, en la misma carpeta, se encuentra el ABSTRACT de InglésIII, el archivo lleva el nombre "CristianCouto-Ingles3".
 ---
 
 ## Autor
