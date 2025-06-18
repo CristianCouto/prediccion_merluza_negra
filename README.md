@@ -89,9 +89,9 @@ Estas fuentes se usaron exclusivamente con fines académicos para el entrenamien
 ---
 ## Presentación del Proyecto
 
--  Este video explica el desarrollo completo del proyecto de predicción de captura de merluza negra, desde el análisis de datos hasta los resultados obtenidos con el modelo Random Forest.
+- En la carpeta /videos, se puede descargar la presentacion haciendo click en - "Cristiancouto Prediccion Captura Merluza Negra.mp4" y luego en "view raw".
 
--  [🔗 Video de Presentación – Cristian Couto](https://drive.google.com/file/d/1oThDk8gHUnG5YDXm6xcqc0fZwxwkr7Wq/view?usp=sharing)  
+-  Este video explica el desarrollo completo del proyecto de predicción de captura de merluza negra, desde el análisis de datos hasta los resultados obtenidos con el modelo Random Forest.
 
 ---
 
