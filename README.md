@@ -44,7 +44,8 @@ Organizado según la arquitectura de [Cookiecutter Data Science](https://drivend
 
 
 ```
-├── data/              # Datos (no incluidos en el repo)
+├── ABSTRACT          # .pdf de Ingles III
+├── data/             # Datos
 │   ├── raw/          # Datos originales reales (Merluza y SST 2019)
 │   ├── interim/      # Datos intermedios
 │   └── processed/    # Datos listos para modelar
@@ -53,6 +54,7 @@ Organizado según la arquitectura de [Cookiecutter Data Science](https://drivend
 ├── reports/          # Visualizaciones, gráficos y salidas
 ├── docs/             # Documentación (PDFs, Word, etc.)
 └── README.md         # Este archivo
+├── videos            # Videos - Abstract (Inglés III) + Proyecto completo
 ```
 
 ---
