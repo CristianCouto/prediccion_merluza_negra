@@ -94,7 +94,6 @@ Estas fuentes se usaron exclusivamente con fines académicos para el entrenamien
 
 -  Este video explica el desarrollo completo del proyecto de predicción de captura de merluza negra, desde el análisis de datos hasta los resultados obtenidos con el modelo Random Forest.
 
-- También, en la mísma carpeta, se encuentra el ABSTRACT de InglésIII, el archivo lleva el nombre "CristianCouto-Ingles3".
 ---
 
 ## Autor
@@ -103,7 +102,7 @@ Estas fuentes se usaron exclusivamente con fines académicos para el entrenamien
 Tierra del Fuego, Argentina  
 Estudiante de la Tecnicatura en Ciencia de Datos e Inteligencia Artificial  
 Centro Politécnico Malvinas Argentinas  
-Proyecto académico para la materia Aprendizaje Automático  
+Proyecto académico para la materia Aprendizaje Automático
 
 Contacto: [GitHub](https://github.com/CristianCouto)
 
